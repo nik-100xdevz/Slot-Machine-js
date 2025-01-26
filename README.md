@@ -4,8 +4,6 @@ A simple Slot Machine game built with HTML, CSS, and JavaScript. This project is
 
 ## Demo
 
-![Slot Machine Demo](https://via.placeholder.com/800x400?text=Slot+Machine+Preview)
-
 Try the live demo [here](#) (replace `#` with your live demo URL).
 
 ## Features
@@ -49,8 +47,6 @@ Try the live demo [here](#) (replace `#` with your live demo URL).
 
 ```
 Slot-Machine-js/
-├── index.html         # Main HTML file
-├── style.css          # CSS file for styling
 ├── script.js          # JavaScript file for game logic
 └── README.md          # Project documentation (you are here!)
 ```
